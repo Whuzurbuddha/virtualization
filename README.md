@@ -1,10 +1,14 @@
-<div align="center" style="font-size: 60px;">
-  <span> virtualizes the progress of covid cases and deaths</span>
-</div>
+# Virtualization practicing
 
-# temperature => is a small program to fetch temperatures from a weather website (written in Rust) and to virtualize it in a simple ui (written in Python)
+<span>
+  temperature => is a small program to fetch temperatures from a weather website (written in Rust) and to virtualize it in a simple ui (written in Python)
+</span>
 
-# corona/progress => virtualizes the progress of covid cases and deaths
-<img src="https://github.com/Whuzurbuddha/virtualization/blob/main/corona/progress/corona_preview.png"/>
+<span>
+    corona/progress => virtualizes the progress of covid cases and deaths
+  <div align="center">
+      <img src="https://github.com/Whuzurbuddha/virtualization/blob/main/corona/progress/corona_preview.png"/>
+  </div>
+</span>
 
 
