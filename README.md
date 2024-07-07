@@ -10,6 +10,7 @@
       corona/progress => virtualizes the progress of covid cases and deaths
     <div align="center">
         <img src="https://github.com/Whuzurbuddha/virtualization/blob/main/corona/progress/corona_preview.png"/>
+        <img src="https://github.com/Whuzurbuddha/virtualization/blob/main/corona/progress/corona_preview2.png"/>
     </div>
   </span>
 </div>
