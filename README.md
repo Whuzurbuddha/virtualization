@@ -1,4 +1,4 @@
-<div align="center", font-weight="xx-large">
+<div align="center", style="font-size:1em;">
   <h1>virtualizes the progress of covid cases and deaths</h2>
 </div>
 
