@@ -1,4 +1,4 @@
-<div style="font-size: 60px;">
+<div align="center" style="font-size: 60px;">
   <span> virtualizes the progress of covid cases and deaths</span>
 </div>
 
