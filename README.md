@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 600px;">virtualizes the progress of covid cases and deaths</h2>
+  <span style="font-size: 600px;">virtualizes the progress of covid cases and deaths</span>
 </div>
 
 # temperature => is a small program to fetch temperatures from a weather website (written in Rust) and to virtualize it in a simple ui (written in Python)
